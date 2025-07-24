@@ -62,7 +62,7 @@ Here’s a sample heatmap from the correlation matrix that shows how different f
 
 ## Status
 
-So I threw a bunch of features at the wall — population, income, 311 complaints, building footprints — hoping something sticks.
-Spoiler: nothing really did, none of them had a strong correlation with VIIRS nighttime light levels.
-So, modeling it didn't really make sense **yet** — the data just wasn't giving what it was supposed to give.
+So I threw a bunch of features at the wall — population, income, 311 complaints, building footprints — hoping something sticks.<br>
+Spoiler: nothing really did, none of them had a strong correlation with VIIRS nighttime light levels.<br>
+So, modeling it didn't really make sense **yet** — the data just wasn't giving what it was supposed to give.<br>
 **P.S.** might model later..
